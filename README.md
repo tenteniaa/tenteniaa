@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Reach me on
 - <a href="https://linkedin.com/in/tenia-febrianti-697602171/">LinkedIn</a>
-- <a href="https://twitter/tenteniaa">Twitter</a>
+- <a href="https://twitter.com/tenteniaa">Twitter</a>
