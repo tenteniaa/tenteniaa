@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/tenteniaa/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/tenteniaa/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/tenteniaa/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/tenteniaa/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tenteniaa/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/tenteniaa/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tenteniaa/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 ### Reach me on
 - <a href="https://linkedin.com/in/tenia-febrianti-697602171/">LinkedIn</a>
-- <a href="https://www.goodreads.com/user/show/75600201-tenia-febrianti">Goodreads</a>
+- <a href="https://www.instagram.com/teniafeb/">Instagram</a>
