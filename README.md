@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/tenia-febrianti-697602171/">LinkedIn</a>
+- <a href="https://linkedin.com/in/teniafebrianti/">LinkedIn</a>
 - <a href="https://www.instagram.com/teniafeb/">Instagram</a>
